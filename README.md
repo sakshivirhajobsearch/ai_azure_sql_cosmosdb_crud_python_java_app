@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Python, Java (Maven/Gradle), TensorFlow / Keras, scikit-learn, MySQL, Azure
+- **Detected Technologies:** Azure, Java, Python
 - **GitHub Topics:** None
 
 ---
